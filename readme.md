@@ -1,6 +1,12 @@
 # React Native Todo App 📱✅
 A feature-rich Todo application built with React Native, featuring dark/light mode, persistent storage, and smooth animations.
 
+## Screenshots 🖼️
+
+| Light Mode | Dark Mode |
+|------------|-----------|
+| <img src="screenshots/light-mode.png" width="300"> | <img src="screenshots/dark-mode.png" width="300"> |
+
 ## Features ✨
 
 - ✅ Add, edit, and delete todos
